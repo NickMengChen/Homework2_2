@@ -1,0 +1,54 @@
+body {
+	margin-left: 40px;
+	margin-right: 40px;
+  }
+
+table.gridtable {
+	width: 100%;
+	table-layout: fixed;
+	border:2px solid #DCDCDC;
+	border-spacing:0px 13.45px;
+}
+
+
+table.gridtable td {
+
+	padding-left: 12.36px;
+	border:1px solid #DCDCDC;
+	border-bottom-style: none;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style: none;
+}
+
+div .Pad_Bot{
+		padding-bottom: 20px;
+		padding-top: 20px;
+	
+}
+
+
+table.QuestionTable {
+	width: 100%;
+	table-layout: fixed;
+	border:2px solid #DCDCDC;
+	border-spacing:0px 0px;
+	padding-bottom: 10px;
+	
+	
+	
+}
+table.QuestionTable th {
+	
+}
+
+table.QuestionTable td {
+
+	padding-top: 13.45px;
+	padding-left: 12.36px;
+	border:1px solid #DCDCDC;
+	border-bottom-style: none;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style: none;
+}
